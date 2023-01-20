@@ -1,9 +1,9 @@
 [plugin]
 repository = "https://github.com/Critical-Impact/InventoryTools.git"
-commit = "0fb1fa5cf02f39f0a25dba0ce8e4be94224956ea"
+commit = "875b0b396274ef3510181678b43f610b5812e7a9"
 owners = [
     "Critical-Impact",
 ]
 project_path = "InventoryTools"
-changelog = "- API 7\n- Decreased non CS sig usage\n- Glamour Chest supports 800\n - Fixed an issue that would cause the more info window to open regardless if no hot key was set."
-version = "1.2.0.2"
+changelog = "Fixed Highlighting in Retainer & Main Character Bags\nFixed Gearset Parsing\nFixed context menu offsets - more information should work again\nFixed an issue with the help menu not showing in specific cases\nFixed a bug that would wipe certain inventories when logging in/out"
+version = "1.2.0.14"

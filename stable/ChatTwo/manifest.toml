@@ -1,7 +1,7 @@
 [plugin]
 repository = 'https://git.anna.lgbt/ascclemens/ChatTwo.git'
-commit = '79dc6ebb72490d2655ffb75179107ee5cfcbe762'
+commit = '53043bd2864ff29b26e4440b90106f9fc5a6abb9'
 owners = [ 'ascclemens' ]
-changelog = '''\
-- Show a window during migration.
-'''
+changelog = """\
+- API 8
+"""
